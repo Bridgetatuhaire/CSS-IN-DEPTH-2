@@ -1,0 +1,40 @@
+
+.left-align{
+    text-align: left;
+    text-decoration: line-through;
+    text-decoration-color:aquamarine;
+    text-decoration-style:dashed;
+    text-indent: 50px;
+    letter-spacing:5px;
+    text-shadow: 2px 2px red;
+}
+
+.right-align{
+    text-align: right;
+    text-decoration: overline;
+}
+
+.justify-align{
+    text-align: justify;
+    text-decoration: underline;
+}
+
+.center{
+    text-align: center;
+    text-decoration: overline underline;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+body{
+    background-color: pink;
+}

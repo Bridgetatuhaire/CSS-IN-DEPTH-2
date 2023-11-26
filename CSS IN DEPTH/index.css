@@ -1,0 +1,25 @@
+.container{
+    display:flex; flex-direction: column; gap: 2rem;
+}
+
+.row-container{
+    display: flex;
+    gap: 2rem;font-weight: 500;
+    font-size: 30px;
+    text-align: left;
+    position: relative;left: 20%;right: 20%;
+    color: palegreen;
+
+    padding-right: 110px;
+    padding-left: 110px;
+    cursor: pointer;
+
+
+}
+a:hover{
+    color: black;
+}
+
+body{
+    background-color: bisque;
+}

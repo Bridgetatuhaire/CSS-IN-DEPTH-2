@@ -1,0 +1,53 @@
+.visible {
+    gap: 2rem;
+    width: 200px;
+    height: 65px; 
+    background-color: chocolate;
+    overflow: visible;
+}
+.scroll{
+    gap: 2rem;
+    width: 200px;
+    height: 65px; 
+    background-color: blueviolet;
+    overflow: scroll;
+    margin-top:150px
+}
+.hidden{
+    gap: 2rem;
+    width: 200px;
+    height: 65px; 
+    background-color:red;
+    overflow: hidden;
+    margin-top:50px 
+}
+.x{
+    gap: 2rem;
+    width: 200px;
+    height: 65px; 
+    background-color: greenyellow;
+    overflow-x: auto;
+    margin-top:50px
+}
+.y{
+    gap: 2rem;
+    width: 200px;
+    height: 65px; 
+    background-color: blue;
+    overflow-y: visible;
+    margin-top:50px
+}
+.auto{
+    gap: 2rem;
+    width: 200px;
+    height: 65px; 
+    background-color: coral;
+    overflow: auto;
+    margin-top:150px;
+
+}
+h1{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}

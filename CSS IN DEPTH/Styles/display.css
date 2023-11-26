@@ -1,0 +1,26 @@
+h1{
+  text-align: center; font-size: large;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .block {
+    display: block;
+    position: static;
+    background-color: lightblue;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .inline {
+    display: inline;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    background-color: lightgreen;
+    padding: 10px;
+  }
